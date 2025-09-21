@@ -16,8 +16,8 @@ spec:
     spec:
       containers:
       - image: 562720099419.dkr.ecr.ap-northeast-2.amazonaws.com/k8s-cluster-repo:v1.0
-
         name: eks-nginx
+
 
 
 
